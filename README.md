@@ -26,3 +26,7 @@ Run all the tests within the current module:
 ```
 go test
 ```
+
+### Terminology
+
+`slice` - a sequence of values of the same type (analagous to an array)
